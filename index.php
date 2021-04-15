@@ -90,13 +90,13 @@
                                     <span>We Are Architects and Urban Designers</span>
 									<h1>Focus on<br> Design Quality</h1>
 									<p>We creating lasting impression through architectural design.</p>
-									<a class="btn" href="/contact.php">Contact Us</a>
+									<a class="btn" href="contact.php">Contact Us</a>
 								</div>
 							</div>
 						</div>
 					</div>
 				</div>
-				
+
 			</div>
 		</div>
 		<!-- slider-area end -->
@@ -112,7 +112,7 @@
                                 <h2>..Years Experience</h2>
                             </div>
                             <p></p>
-                            <a href="about.html" class="btn">About us</a>
+                            <a href="about.php" class="btn">About us</a>
                         </div>
                     </div>
                     <div class="col-lg-6 col-md-12">
@@ -149,19 +149,19 @@
                         <div class="services-caption text-center mb-30">
                             <div class="service-icon">
                                 <i class="flaticon-null"></i>
-                            </div> 
+                            </div>
                             <div class="service-cap">
                                 <h4><a href="#">Architecture</a></h4>
                                 <p>Tempor proident et tempor qui non duis pariatur exercitation incididunt consectetur. In amet aliqua sint fugiat aliqua ad ullamco velit adipisicing dolor pariatur excepteur sit deserunt. Reprehenderit cupidatat consectetur eiusmod excepteur eu deserunt minim deserunt. Labore tempor excepteur dolor aliquip dolore in deserunt nulla nostrud id est. Quis ut ipsum adipisicing pariatur sunt ea dolore consectetur reprehenderit ea laboris laboris.</p>
                             </div>
                         </div>
                     </div>
-                
+
                     <div class="col-xl-6 col-lg-6 col-md-6 col-sm-9">
                         <div class="services-caption text-center mb-30">
                             <div class="service-icon">
                                 <i class="flaticon-null-2"></i>
-                            </div> 
+                            </div>
                             <div class="service-cap">
                                 <h4><a href="#">Urban Design</a></h4>
                                 <p>Aliqua aliquip nisi esse irure labore culpa duis exercitation irure amet. Laboris cillum aliquip consequat nulla irure. Ex do qui est nostrud dolore non. Sit velit commodo non magna aliqua consectetur ullamco mollit dolor. Dolor elit esse ipsum laborum ea ad officia. Eu eu do mollit esse sit. Et proident sint excepteur proident.</p>
@@ -181,7 +181,7 @@
                         <div class="section-tittle text-center mb-70">
                             <span>Our recent work</span>
                             <h2>Projects</h2>
-                        </div> 
+                        </div>
                     </div>
                 </div>
                 <div class="row">
@@ -250,7 +250,7 @@
                         <div class="section-tittle text-center mb-70">
                             <span>Our experts</span>
                             <h2>The Expressions Team</h2>
-                        </div> 
+                        </div>
                     </div>
                 </div>
                 <div class="row">
@@ -292,7 +292,7 @@
             </div>
         </section>
         <!-- Team End -->
-    
+
     </main>
     <footer>
         <!-- Footer Start-->
@@ -330,7 +330,7 @@
                                 </div>
                             </div>
                         </div>
-                       
+
                     </div>
                 </div>
                 <!-- Footer bottom -->
@@ -340,7 +340,7 @@
                             <div class="footer-copy-right">
                                 <p>
   Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | Developed by <a href="https://cyberhale.com" target="_blank">Cyberhale</a>
-  </p>                   
+  </p>
                             </div>
                         </div>
                         <div class="col-xl-5 col-lg-4 col-md-5">
@@ -387,7 +387,7 @@
     <!-- Nice-select, sticky -->
     <script src="./assets/js/jquery.nice-select.min.js"></script>
     <script src="./assets/js/jquery.sticky.js"></script>
-    
+
     <!-- counter , waypoint,Hover Direction -->
     <script src="./assets/js/jquery.counterup.min.js"></script>
     <script src="./assets/js/waypoints.min.js"></script>
@@ -400,10 +400,10 @@
     <script src="./assets/js/jquery.validate.min.js"></script>
     <script src="./assets/js/mail-script.js"></script>
     <script src="./assets/js/jquery.ajaxchimp.min.js"></script>
-    
-    <!-- Jquery Plugins, main Jquery -->	
+
+    <!-- Jquery Plugins, main Jquery -->
     <script src="./assets/js/plugins.js"></script>
     <script src="./assets/js/main.js"></script>
-    
+
     </body>
 </html>
