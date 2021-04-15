@@ -102,7 +102,7 @@
                     <div class="col-xl-7 col-lg-8 col-md-11 col-sm-11">
                         <div class="section-tittle  text-center mb-90">
                             <span>Our Services</span>
-                            <h2>We provide best intorior solution for you</h2>
+                            <h2>Best In Class Architecture</h2>
                         </div>
                     </div>
                 </div>
@@ -112,7 +112,7 @@
                         <div class="services-caption text-center mb-30">
                             <div class="service-icon">
                                 <i class="flaticon-null"></i>
-                            </div> 
+                            </div>
                             <div class="service-cap">
                                 <h4><a href="#">Architecture</a></h4>
                                 <p>Sorem spsum dolor sit amsectetr adipisclit, seddo eiusmod tempr incididunt laborea.</p>
@@ -123,18 +123,18 @@
                         <div class="services-caption active text-center mb-30">
                             <div class="service-icon">
                                 <i class="flaticon-null-1"></i>
-                            </div> 
+                            </div>
                             <div class="service-cap">
                                 <h4><a href="#">Interior Design</a></h4>
                                 <p>Sorem spsum dolor sit amsectetur adipisclit, seddo eiusmod tempor incididunt ut laborea.</p>
                             </div>
                         </div>
-                    </div> 
+                    </div>
                     <div class="col-xl-4 col-lg-4 col-md-6 col-sm-9">
                         <div class="services-caption text-center mb-30">
                             <div class="service-icon">
                                 <i class="flaticon-null-2"></i>
-                            </div> 
+                            </div>
                             <div class="service-cap">
                                 <h4><a href="#">Urban Design</a></h4>
                                 <p>Sorem spsum dolor sit amsectetur adipisclit, seddo eiusmod tempor incididunt ut laborea.</p>
@@ -190,7 +190,7 @@
                         <div class="col-xl-7 col-lg-8 col-md-7">
                             <div class="footer-copy-right">
                                 <p>
-  Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | Developed by <a href="https://cyberhale.com" target="_blank">Cyberhale</a></p>                   
+  Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | Developed by <a href="https://cyberhale.com" target="_blank">Cyberhale</a></p>
                             </div>
                         </div>
                         <div class="col-xl-5 col-lg-4 col-md-5">
@@ -237,7 +237,7 @@
     <!-- Nice-select, sticky -->
     <script src="./assets/js/jquery.nice-select.min.js"></script>
     <script src="./assets/js/jquery.sticky.js"></script>
-    
+
     <!-- counter , waypoint,Hover Direction -->
     <script src="./assets/js/jquery.counterup.min.js"></script>
     <script src="./assets/js/waypoints.min.js"></script>
@@ -250,10 +250,10 @@
     <script src="./assets/js/jquery.validate.min.js"></script>
     <script src="./assets/js/mail-script.js"></script>
     <script src="./assets/js/jquery.ajaxchimp.min.js"></script>
-    
-    <!-- Jquery Plugins, main Jquery -->	
+
+    <!-- Jquery Plugins, main Jquery -->
     <script src="./assets/js/plugins.js"></script>
     <script src="./assets/js/main.js"></script>
-    
+
     </body>
 </html>
