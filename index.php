@@ -234,7 +234,7 @@
                         <div class="experience-caption">
                             <h2>Our Projects</h2>
                             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quis istud possit, inquit, negare? Tanta vis admonitionis inest in locis; Sed eum qui audiebant, quoad poterant, defendebant sententiam suam. Qui si omnes veri erunt, ut Epicuri ratio docet, tum denique poterit aliquid cognosci et percipi. Sed ad haec, nisi molestum est, habeo quae velim. Duo Reges: constructio interrete. Sed haec omittamus; </p>
-                            <a href="project.html" class="btn">Projects</a>
+                            <a href="project.php" class="btn">Projects</a>
                         </div>
                     </div>
                 </div>
